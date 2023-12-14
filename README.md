@@ -17,6 +17,7 @@ of Amazon Linux such as [Amazon Linux
 2023](https://aws.amazon.com/linux/amazon-linux-2023/) or [Amazon Linux
 2](https://aws.amazon.com/amazon-linux-2/).
 
+![Amazon Linux instance finder screenshot](/images/screenshot.png)
 
 ## Building the server
 
